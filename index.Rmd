@@ -1,0 +1,11 @@
+---
+title: "Lu Gan"
+---
+
+### Welcome to my personal webpage!
+
+<img src="images/scenery.jpg" style="width:75%">
+
+* cleck [here](Resume.pdf) to get my resume
+
+
